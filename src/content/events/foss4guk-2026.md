@@ -4,12 +4,11 @@ description: 'Around 50 talks and workshops over two days at Horizon Leeds.'
 startDate: '2026-10-12'
 endDate: '2026-10-13'
 location: 'Horizon Leeds'
-registerUrl: 'https://pretix.eu/osgeo-uk/foss4g-uk-2026/'
 sponsors:
   - tier: 'Gold Sponsors'
     logos: ['esri-uk']
   - tier: 'Silver Sponsors'
-    logos: ['idox', 'addresscloud']
+    logos: ['idox', 'addresscloud', 'geolytix']
   - tier: 'Bronze Sponsors'
     logos:
       [
@@ -26,6 +25,9 @@ sponsors:
   - tier: 'Community Sponsors'
     logos: ['women-in-geospatial', 'agi', 'hot']
 ---
+
+> **This event has now concluded.** Thank you to everyone who attended, spoke and
+> sponsored FOSS4G:UK 2026 in Leeds.
 
 FOSS4G:UK returns to [Horizon Leeds](https://horizonleeds.co.uk/) on **Monday 12 and
 Tuesday 13 October 2026**. Following the format that worked well in 2025, we'll run talks
